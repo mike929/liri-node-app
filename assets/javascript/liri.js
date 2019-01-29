@@ -1,4 +1,7 @@
+"use strict";
+
 require("dotenv").config();
+// require('dotenv').config({'/.env'});
 
 //----------------NPM-----------------//
 const env = require("dotenv").config();
@@ -6,6 +9,9 @@ const keys = require('./keys.js');
 const request = require("request");
 const fs = require("fs-plus");
 const moment = require('moment');
+
+
+var cTable = require('console.table');
 
 
 
@@ -45,6 +51,7 @@ var outputNum = 1;
 var border = "\n======================================================\n";
 var hr = "\n-------------------------------------------------------\n";
 var br = "\n";
+
 
 
 //---------------GET READY--------------//
