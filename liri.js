@@ -327,10 +327,11 @@ function concertThis() {
             console.log(border +
                 "If you want me to do something, you have to tell me" +
                 border +
-                "\tHere's a hint: " +
+                "\tHere is some help: " +
                 hr + br +
                 "Lookup a song, type 'node liri.js spotify-this-song  [song name]" + br +
                 "lookup a movie, type 'node liri.js movie-this [movie name]'" + br +
+                "lookup a concert, type 'node liri.js concert-this [band or artist name]'" + br +
                 "Read from the .txt prompt, type 'do-what-it-says'" + br + hr +
-                "So what would you like me to do?" + border);;
+                "\tWhat would you like to do?" + border);;
     }

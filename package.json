@@ -28,5 +28,10 @@
     "request": "^2.88.0",
     "simple-node-logger": "^18.12.21"
   },
+
+// "bin: {
+//   "liri": {"./liri.js"
+
+// },
   "devDependencies": {}
 }
