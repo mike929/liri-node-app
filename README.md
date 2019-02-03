@@ -85,6 +85,6 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
      
      ######## Screen grabs ########
      
-     ./liri-node-app/blob/master/movie.gif
+     ![Screenshot]https://github.com/NickeManarin/ScreenToGif/wiki/Help-%E2%96%AA-Issues-%E2%96%AA-Error-while-opening-the-Editor-window
 
 
