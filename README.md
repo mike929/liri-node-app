@@ -83,8 +83,25 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
      
      
-     ######## Screen grabs ########
+     <center>######## Screen grabs ########</center>
+     
+     How to:
+     
+     ![Screenshot](/noArg.gif)
+     
+     Band search:
+     
+     ![Screenshot](/concert.gif)
+     
+     Song search:
+     
+     ![Screenshot](/song.gif)
+     
+    
+     Movie search:
      
      ![Screenshot](/movie.gif)
+     
+     
 
 
