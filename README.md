@@ -81,5 +81,10 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
+     
+     
+     ######## Screen grabs ########
+     
+     https://github.com/mike929/liri-node-app/blob/master/movie.gif
 
 
