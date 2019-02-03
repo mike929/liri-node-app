@@ -85,6 +85,6 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
      
      ######## Screen grabs ########
      
-     ![Screenshot](/liri-node-app/blob/master/movie.gif)
+     ![Screenshot](/movie.gif)
 
 
